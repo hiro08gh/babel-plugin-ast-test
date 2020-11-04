@@ -1,0 +1,10 @@
+{
+  "name": "babel-plugin-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "hiro08gh",
+  "license": "MIT",
+  "dependencies": {
+    "@babel/cli": "^7.12.1"
+  }
+}
